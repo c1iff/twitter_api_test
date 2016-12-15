@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
-  database: project_development
+  database: twitter_translate_development
 
 test:
   adapter: postgresql
-  database: project_test
+  database: twitter_translate_test

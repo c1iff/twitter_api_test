@@ -1,6 +1,6 @@
 # _Project_
 
-#### By _**Kenneth Black**, MM/DD/YYYY_
+#### By _**_
 
 ## Description
 
@@ -35,4 +35,4 @@ _Ruby, Sinatra, SQL, Postgres, JavaScript, MaterializeCSS, jQuery_
 
 *MIT License*
 
-Copyright (c) 2016 **_Kenneth Black_**
+Copyright (c) 2016 

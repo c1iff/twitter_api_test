@@ -1,10 +1,7 @@
-class Project < ActiveRecord::Base
-
+require('twitter')
   config = {
   consumer_key:    "ueSBHjFSRvauM1Xdi86ZfG7dR",
-  consumer_secret: "bQEENdVrAAhNHPbqp2LFZUiy7M7JN7pGf2ND241V8HPp10QSv1",
-}
+  consumer_secret: "Enter API Secrect Here",
+  }
 
-$twitter = Twitter::REST::Client.new(config)
-
-end
+  $twitter_client = Twitter::REST::Client.new(config)
